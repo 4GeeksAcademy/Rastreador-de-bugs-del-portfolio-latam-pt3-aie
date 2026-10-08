@@ -1,0 +1,11 @@
+title,description,page,priority,status
+Broken contact form,Submit button does nothing on mobile,contact,high,open
+Missing profile photo,Image returns 404,about,medium,open
+Typo in hero text,"Recieve" should be "Receive",home,low,resolved
+Dead project link,Link to GitHub project 404s,projects,high,open
+Wrong font on mobile,Body text uses serif on iOS,home,low,open
+Footer overlaps content,Footer covers last section on small screens,about,medium,in_progress
+Slow image load,Hero image takes 8s to load,home,medium,open
+Missing alt text,All project images have empty alt,projects,low,open
+Form validation missing,Email field accepts any text,contact,high,open
+Dark mode flicker,Screen flashes white on load in dark mode,home,low,discarded
